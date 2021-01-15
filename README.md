@@ -2,7 +2,7 @@
 This dataset was obtained from a [Kaggle Dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) with the intention of showcasing the use of the PyCaret library for market basket analysis. The aim of this project is to understand the sort of marketing strategies can be utilised using machine learning algorithms. 
 
 <p float="left">
-  <img src="https://github.com/PannaD8ta/Mall_Customer_Clustering_PyCaret/blob/main/Overview1.png" alt="Overview1" width="905" height="550"/>
+  <img src="https://github.com/PannaD8ta/Mall_Customer_Clustering_PyCaret/blob/main/Overview1.png" alt="Overview1" width="450" height="300"/>
   <img src="https://github.com/PannaD8ta/Mall_Customer_Clustering_PyCaret/blob/main/scatterplot.png" alt="scatterplot" width="450" height="300"/>
   <img src="https://github.com/PannaD8ta/Mall_Customer_Clustering_PyCaret/blob/main/pearson_correlation.png" alt="pearson_correlation" width="450" height="300"/>
 </p>
